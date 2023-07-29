@@ -26,7 +26,7 @@ If you need to pause the timer, click the "Stop" button. The stopwatch will free
 3. Resetting the Stopwatch:
 To reset the stopwatch to zero, click the "Reset" button. This will set the timer back to its initial state, ready for a fresh timing session.
 
-*  Usage Scenario:
+#  Usage Scenario:
 
 - Time your workout sessions, meditation, or study sessions with ease.
 - Monitor time while taking a quick break or to track intervals during workouts.
