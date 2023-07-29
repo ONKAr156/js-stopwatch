@@ -32,6 +32,3 @@ To reset the stopwatch to zero, click the "Reset" button. This will set the time
 - Monitor time while taking a quick break or to track intervals during workouts.
 - Use it in games, quizzes, or any activity where precise timing is crucial.
 
-# Note: JS-Stopwatch is designed to be a simple stopwatch tool with basic timing functionalities. If you need more advanced features or additional functionalities, you can easily extend the codebase to suit your requirements.
-
-Get started with JS-Stopwatch now and experience the convenience of a straightforward and responsive stopwatch for all your timing needs!
